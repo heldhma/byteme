@@ -33,3 +33,5 @@ Contribuições são bem-vindas! Se você tiver ideias ou melhorias, fique à vo
 Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 ## Boa sorte e divirta-se jogando "Byte me! I'm Silent!" 🕹️💻
+> https://heldhma.github.io/byteme/
+https://heldhma.github.io/byteme/
