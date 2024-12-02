@@ -1,0 +1,51 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    background-color: #000;
+    color: #f00;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, p {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #f00;
+    color: #000;
+    border: 2px solid #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: 'Roboto Mono', monospace;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #fff;
+    color: #f00;
+  }
+  
+  .screen {
+    display: none;
+  }
+  
+  .screen.active {
+    display: block;
+    margin-top: 50px;
+  }
+  
+  #player-inputs input {
+    display: block;
+    margin: 5px auto;
+    padding: 10px;
+    font-size: 16px;
+    width: 80%;
+    font-family: 'Roboto Mono', monospace;
+  }
+  
+  #player-result {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
