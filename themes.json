@@ -1,0 +1,19 @@
+{
+    "P": {
+      "name": "Famous People in Technology",
+      "words": ["Steve Jobs", "Bill Gates", "Ada Lovelace", "Elon Musk"]
+    },
+    "O": {
+      "name": "Tech Objects",
+      "words": ["Smartphone", "Laptop", "Server", "Router"]
+    },
+    "A": {
+      "name": "Tech Actions (verbs)",
+      "words": ["Coding", "Debugging", "Design", "Testing"]
+    },
+    "M": {
+      "name": "Mix",
+      "words": ["AI", "Hackathons", "Cybersecurity", "Cloud"]
+    }
+  }
+  
