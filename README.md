@@ -1,7 +1,7 @@
-Byte me! I'm Silent! 🎮
+<h1>Byte me! I'm Silent! 🎮</h1>
 Byte me! I'm Silent! é um jogo de diversão e estratégia onde os jogadores tentam descobrir quem é o impostor. O jogo foi desenvolvido para ser uma experiência divertida e educativa, com foco em temas da área de tecnologia. A cada rodada, um tema é apresentado, e os jogadores recebem uma palavra relacionada a ele. Um dos jogadores, no entanto, é o impostor e deve tentar se passar por um jogador comum sem saber a palavra.
 
-Funcionalidades 🔧
+<h2>Funcionalidades 🔧 </h2>
 Multiplayer: Suporta até 6 jogadores simultâneos.
 Impostor Aleatório: Um dos jogadores é aleatoriamente escolhido como o impostor e não sabe qual é a palavra.
 Palavra Compartilhada: Todos os jogadores (exceto o impostor) recebem a mesma palavra.
