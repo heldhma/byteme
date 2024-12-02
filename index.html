@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Byte me! I'm Silent!</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+   
+    <div id="start-screen" class="screen active">
+      <h1>Byte me! I'm Silent!</h1>
+      <p>Enter up to 6 players:</p>
+      <div id="player-inputs">
+        <input type="text" placeholder="Player 1">
+        <input type="text" placeholder="Player 2">
+        <input type="text" placeholder="Player 3">
+        <input type="text" placeholder="Player 4">
+        <input type="text" placeholder="Player 5">
+        <input type="text" placeholder="Player 6">
+      </div>
+      <button id="start-game">Start Game</button>
+    </div>
+
+    <div id="theme-screen" class="screen">
+      <h2>The Theme is:</h2>
+      <p id="theme-name"></p>
+      <button id="start-round">Start Round</button>
+    </div>
+
+ 
+    <div id="player-screen" class="screen">
+      <h2 id="current-player"></h2>
+      <div id="player-result"></div>
+      <button id="next-player">Next Player</button>
+    </div>
+
+    <div id="final-screen" class="screen">
+      <h2>Round Over!</h2>
+      <p id="final-theme"></p>
+      <button id="restart-game">Play Again</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
